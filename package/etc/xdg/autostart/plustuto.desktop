@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Sync_Tutorial
+Comment=Program to get all available tutorial for the user
+Exec=/usr/share/sharingfiles/synctuto.py
+Path=/usr/share/sharingfiles/
+Terminal=false
+Type=Application

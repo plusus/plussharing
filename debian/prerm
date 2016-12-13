@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+
+find /usr/share/sharingfiles -type d -name __pycache__ -print0 | sudo xargs --null --no-run-if-empty rm -r
+for PACKAGENAME in cffi cryptography paramiko pysftp
+do
+	find /usr/lib/python3/dist-packages/$PACKAGENAME -type d -name __pycache__ -print0 | sudo xargs --null --no-run-if-empty rm -r
+done

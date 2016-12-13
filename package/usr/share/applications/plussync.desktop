@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Plus-Sync
+Icon=plussync
+Exec=python3 '/opt/plussync/'
+Terminal=false
+Type=Application
+Categories=Utility

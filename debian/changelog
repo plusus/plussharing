@@ -1,0 +1,7 @@
+plussharing (0.2) unstable; urgency=low
+  * New UI for versionning incomming shared file and also don't load all file.
+ -- Samuel Charland <samuel.charland@usherbrooke.ca>  Sat, 01 Nov 2016 23:54:00 -0500
+
+plussharing (0.1) unstable; urgency=low
+  * Initial version
+ -- Samuel Charland <samuel.charland@usherbrooke.ca>  Sat, 01 Nov 2016 12:37:00 -0500
