@@ -1,4 +1,4 @@
-Mako==1.0.0
+Mako==1.2.2
 MarkupSafe==0.23
 cffi==1.7.0
 chardet==2.3.0
